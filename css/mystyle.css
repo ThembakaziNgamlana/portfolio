@@ -1,0 +1,57 @@
+body{
+    background-color: blueviolet;
+}
+
+
+h1{
+color:wheat;
+}
+
+h2{
+    color:rgb(53, 165, 53);
+
+}
+
+.h2{
+    color:purple;
+    font-size: xx-large;
+    font-family: 'Silkscreen', sans-serif;
+    font-family: 'Silkscreen Expanded', sans-serif;
+}
+
+.topnav{
+ 
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.topnav a{
+    padding-left: 700px;
+    padding-right: 700px;
+    padding-top: 100px;
+    
+    background-color:red;
+    width: auto;
+   height: 30px;
+}
+.intro{
+    background-color:blueviolet;
+    padding-right: 500px;
+    padding-left: 500px;
+}
+.sideBar{
+    background-color: yellow;
+    float: left;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 600px;
+}
+
+.dashboard{
+    background-color: blue;
+}
